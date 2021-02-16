@@ -1,0 +1,1 @@
+{"version":3,"file":"ngb-intelisearch.module.d.ts","sources":["ngb-intelisearch.module.d.ts"],"names":[],"mappings":";;;;AAAA;;;AACA","sourcesContent":["export declare class NgbIntelisearchModule {\n}\n"]}
